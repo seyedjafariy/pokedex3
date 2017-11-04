@@ -18,8 +18,6 @@ class PokemonDetailVC: UIViewController {
 
         nameLbl.text = poke.name
         
-        
-        // Do any additional setup after loading the view.
     }
 
 
